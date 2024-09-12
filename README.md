@@ -1,2 +1,1 @@
-
-![Acessibilidade](https://github.com/user-attachments/assets/e26161c2-2f0f-4e7d-8083-76844bbb8128)
+https://www.figma.com/design/RpTt1yXDSphCt5W6sM6say/AluraBooks-%7C-Responsividade-com-Mobile-First-(Copy)?node-id=37-94&t=PDnU0Z8DNWrHvN7k-1
